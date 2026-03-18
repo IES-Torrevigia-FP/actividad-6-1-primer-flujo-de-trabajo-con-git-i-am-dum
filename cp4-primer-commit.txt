@@ -1,0 +1,6 @@
+andr@andr:~/Documents/dev/actividad-6-1-primer-flujo-de-trabajo-con-git-i-am-dum$ git log --oneline
+8cd17a4 (HEAD -> main) 2ejer
+db0729f (origin/main, origin/HEAD) add deadline
+9b8acc7 Initial commit
+
+Es importante escribir mensajes de commit claros porque ayudan a ti y a tu equipo entender rapidamente el proposito de cada cambio en el proyecto

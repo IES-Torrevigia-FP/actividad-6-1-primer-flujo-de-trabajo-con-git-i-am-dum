@@ -1,0 +1,26 @@
+andr@andr:~/Documents/dev/actividad-6-1-primer-flujo-de-trabajo-con-git-i-am-dum$ git rm --cached notas-git.md
+rm 'notas-git.md'
+andr@andr:~/Documents/dev/actividad-6-1-primer-flujo-de-trabajo-con-git-i-am-dum$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    notas-git.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	notas-git.md
+
+
+Significa que existe pero git no lo añadido al area de preparacion para ser confirmado
+
+
+
+¿Qué diferencia hay entre estar “untracked” y estar en “staging”?
+Entrar en 'untracked' significa que no esta preparado para git mientras que el stagng es lo contrario
+
+
+¿Qué comando has utilizado para pasar el archivo a la zona de staging?
+git add 'ejemplo'
