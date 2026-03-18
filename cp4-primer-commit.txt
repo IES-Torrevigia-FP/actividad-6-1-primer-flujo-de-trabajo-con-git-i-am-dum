@@ -4,3 +4,10 @@ db0729f (origin/main, origin/HEAD) add deadline
 9b8acc7 Initial commit
 
 Es importante escribir mensajes de commit claros porque ayudan a ti y a tu equipo entender rapidamente el proposito de cada cambio en el proyecto
+
+2d2637c (HEAD -> main) ejer2
+8cd17a4 2ejer
+db0729f (origin/main, origin/HEAD) add deadline
+9b8acc7 Initial commit
+
+Tiene 4 commits, y la diferencia entre el primer commit 2d2637c es el commit mas reciente (aparte de eso trabaja con la rama main), mientras que el segundo es el 8cd17a4 es un commit anterior al primero
